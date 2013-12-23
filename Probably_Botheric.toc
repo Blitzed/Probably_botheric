@@ -1,0 +1,15 @@
+## Interface: 50400
+## Title: Probably - Botheric
+## Notes: ProbablyEngine Custom Profile Molsens
+## Author: Botheric
+## Version 1.0
+## Dependencies: Probably
+
+libs\functions.lua
+libs\listener.lua
+libs\abilities.lua
+libs\Synapse_lib.lua
+rotations\warrior\arms.lua
+rotations\warrior\arms_fc.lua
+rotations\Deathknight\frost2h_pvp.lua
+rotations\Deathknight\unholy.pvp.5.4.lua
